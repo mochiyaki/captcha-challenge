@@ -50,7 +50,7 @@ captcha/
 ├── vite.config.ts                      # Vite configuration
 ├── tailwind.config.js                  # Tailwind CSS configuration
 ├── tsconfig.json                       # TypeScript configuration
-└── README.md                          # This file
+└── README.md                           # This file
 ```
 
 ## Specifications
